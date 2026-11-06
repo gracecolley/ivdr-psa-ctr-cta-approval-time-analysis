@@ -1,5 +1,5 @@
 # =============================================================================
-# Submission-to-outcome time analysis
+# Submission-to-approval time analysis
 #
 # Purpose:
 #   Describe submission-to-approval times for CTA and PSA submissions, estimate
