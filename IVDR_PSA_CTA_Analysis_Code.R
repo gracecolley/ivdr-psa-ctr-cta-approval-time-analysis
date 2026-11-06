@@ -1020,16 +1020,3 @@ min_5_joint_country_models <-
     data_min_5_per_country,
     "At least five observations per country per submission type"
   )
-
-
-# 11. Diagnostic checks -------------------------------------------------------
-
-# Check convergence and model warnings in the model summaries. The following
-# simulation-based residual diagnostics can be used to assess distributional
-# fit for the principal adjusted model.
-#
-# library(DHARMa)
-# simulated_residuals <- simulateResiduals(model)
-# plot(simulated_residuals)
-# testUniformity(simulated_residuals)
-# testDispersion(simulated_residuals)
