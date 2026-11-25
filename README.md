@@ -16,7 +16,8 @@ For information about the data, refer to the manuscript’s **Data Availability*
 
 ## Contents
 
-- `analysis.R` — R script for importing and preparing the data, conducting analyses, and producing manuscript tables and figures.
+- `IVDR_PSA_CTA_Analysis_Code.R` — R script for importing and preparing the data and conducting analyses.
+- `IVDR_PSA_CTA_Figures_Tables_Code.R` — R script for producing manuscript tables and figures.
 - `README.md` — this file.
 - `IVDR_PSA_CTA_Publication_Analysis.csv` — **not provided**; confidential input data required by the script.
 
